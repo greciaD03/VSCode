@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-AwWWww. . .
-=======
 Esto es un borrador para eliminar material de este archivo. . . 
-
->>>>>>> c6cc143f5dd59ee4628b8adc8242407a89ed4fb3
