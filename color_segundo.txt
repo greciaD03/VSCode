@@ -1,21 +1,3 @@
 color_segundo.txt
 
-2.-TITULO
-Pellentesque tempor risus sit amet risus 
-vestibulum, id aliquam magna vestibulum. 
-Maecenas congue dui ac nulla finibus, vitae 
-bibendum nunc cursus. Nam enim erat, placerat 
-malesuada felis eget, mollis pellentesque lorem. 
-Ut sed ante nulla. Donec tempor massa aliquet 
-orci mattis, in molestie dui mattis. 
-Duis feugiat luctus enim, a faucibus ligula. 
-Sed eget rhoncus risus. Mauris quis tortor imperdiet, 
-congue nulla id, aliquam nunc. Nam tristique justo 
-tortor, ut convallis tellus ullamcorper et. 
-Aliquam eget tincidunt erat, id vulputate justo. 
-Nulla lacinia rhoncus ante ac sagittis. 
-Etiam facilisis, mi et tincidunt tincidunt, nunc leo 
-commodo nibh, non mollis libero lectus vel quam. 
-Nam mollis rutrum ante, a suscipit tellus euismod at. 
-Nam quis venenatis est. Pellentesque imperdiet dui 
-mauris, ultrices pulvinar justo dapibus id.
+|"El segundo color es ROJO"|

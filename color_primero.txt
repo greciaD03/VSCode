@@ -1,18 +1,3 @@
 color_primero.txt
 
-1.-TITULO
-Lorem ipsum dolor sit amet, consectetur 
-adipiscing elit. Vivamus est felis, rhoncus 
-sed velit vitae, dictum rutrum diam. 
-Fusce eleifend dignissim dictum. Pellentesque 
-dictum ante lobortis odio porta, at porta 
-justo condimentum. Aliquam erat volutpat. 
-Cras diam metus, pharetra vitae scelerisque at, 
-venenatis et nibh. Maecenas scelerisque malesuada 
-sem, et pretium tortor molestie quis. In ullamcorper 
-sodales vestibulum. Aliquam vehicula ligula et 
-hendrerit finibus. Morbi faucibus scelerisque 
-ipsum non tincidunt.
-
-
-
+|"El primer color es AZUL"|
