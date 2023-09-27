@@ -1,3 +1,3 @@
 color_segundo.txt
 
-|"El segundo color es ROJO"|
+|"El segundo color es AMARILLO"|
