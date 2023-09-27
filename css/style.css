@@ -4,11 +4,7 @@ body{
     opacity: .8;
 }
 
-h1{
-    background-color: black;
-}
-
-p{
+h1, p{
     background-color: black;
 }
 
