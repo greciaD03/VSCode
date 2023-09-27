@@ -1,0 +1,3 @@
+color_segundo.txt
+
+|"El segundo color es AMARILLO"|
