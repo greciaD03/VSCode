@@ -1,3 +1,0 @@
-color_primero.txt
-
-|"El primer color es AZUL"|
