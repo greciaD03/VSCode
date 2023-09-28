@@ -1,7 +1,8 @@
 body{
-    /*background-color: black;*/
+    background-color: black;
     background-image: url("img/fondo.gif");
     opacity: .8;
+    color:beige; 
 }
 
 h1, p{
@@ -27,5 +28,27 @@ amarillo{
 
 aqua{
     color:aqua;
-    text-align: center;  
+    text-align: right;  
+}
+
+.kitty{
+    position:absolute;
+    top: 110px;
+    left : 190px;
+    height:300px;
+    width:300px;
+    z-index: 10;
+}
+
+.photo{
+  position:absolute;
+  height:500px;
+  width:500px;
+  top: 10px;
+  left : 70px;
+  z-index: 1;
+}
+pink{
+    color:deeppink;
+    text-align: center;
 }
