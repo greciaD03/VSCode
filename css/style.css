@@ -48,6 +48,25 @@ aqua{
   left : 70px;
   z-index: 1;
 }
+
+.pc{
+  position:absolute;
+  height:500px;
+  width:200px;
+  top: 10px;
+  left : 580px;
+  z-index: 50;
+}
+
+.imag{
+position:absolute;
+  height:105px;
+  width:175px;
+  top: 135px;
+  left : 593px;
+  z-index: 50; 
+}
+
 pink{
     color:deeppink;
     text-align: center;
