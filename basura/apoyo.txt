@@ -1,0 +1,5 @@
+|BLOQ DE NOTAS|
+Link´s para apoyo de investigacion de comandos de Git.
+
+https://apiumhub.com/es/tech-blog-barcelona/20-comandos-
+basicos-de-git-que-todo-ingeniero-qa-debe-conocer/
