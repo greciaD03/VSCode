@@ -1,5 +1,15 @@
 |BLOQ DE NOTAS|
 Link´s para apoyo de investigacion de comandos de Git.
 
+"20 Comandos Basicos de Git":
 https://apiumhub.com/es/tech-blog-barcelona/20-comandos-
 basicos-de-git-que-todo-ingeniero-qa-debe-conocer/
+
+"Eliminar Ramas Locales y Remotas":
+https://vabadus.es/blog/otros/trabajando-con-git-eliminar-
+ramas-locales-y-remotas
+
+"Git --local-branching-on-the-cheap"
+GIT RM 
+https://git-scm.com/docs/git-rm
+
